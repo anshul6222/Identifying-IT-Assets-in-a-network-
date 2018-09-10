@@ -1,0 +1,20 @@
+{
+  "name": "project",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "jspdf": "^1.4.1",
+    "react": "^16.4.0",
+    "react-cookie": "^2.2.0",
+    "react-dom": "^16.4.0",
+    "react-scripts": "1.1.4",
+    "react-spinners": "^0.3.2",
+    "tachyons": "^4.9.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
